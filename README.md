@@ -26,3 +26,9 @@
 ### Creating a React APP
 + This is the most common option. Using this option adds most basic and important components to start with, making your work easier and less complicated
 
+
+Readings:
+[Getting Started with React](https://www.taniarascia.com/getting-started-with-react/)
+[Connecting to APis with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+[Introduction to DOM](https://www.taniarascia.com/introduction-to-the-dom/)
+
