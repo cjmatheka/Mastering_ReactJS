@@ -24,7 +24,5 @@
 + This option is a good one, although it is less preferable as the project becomes more and more complex. However, using it gives you an idea of what's really happening with react by providing a simpler way of seeing things.
 
 ### Creating a React APP
-+ This is the most common option.
-
-+ Using this option adds most basic and important components to start with, making your work easier and less complicated
++ This is the most common option. Using this option adds most basic and important components to start with, making your work easier and less complicated
 
